@@ -1,3 +1,7 @@
+---
+title: hoge
+---
+
 # aaa
 
 ## aaa
